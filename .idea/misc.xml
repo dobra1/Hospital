@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-model/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-web/pom.xml" />
+        <option value="$PROJECT_DIR$/controller/pom.xml" />
+        <option value="$PROJECT_DIR$/web/pom.xml" />
+        <option value="$PROJECT_DIR$/dao/pom.xml" />
+        <option value="$PROJECT_DIR$/model/pom.xml" />
+        <option value="$PROJECT_DIR$/service/pom.xml" />
+        <option value="$PROJECT_DIR$/hosp_controller/pom.xml" />
+        <option value="$PROJECT_DIR$/hosp_model/pom.xml" />
+        <option value="$PROJECT_DIR$/hosp_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/hosp_service/pom.xml" />
+        <option value="$PROJECT_DIR$/hosp_web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
